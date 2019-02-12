@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mybatis_demo/dao/StudentDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mybatis_demo/entity/Student.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mybatis_demo/service/StudentService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mybatis_demo/util/MybatisUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/Mybatis.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/student-mapper.xml" charset="UTF-8" />
+  </component>
+</project>
